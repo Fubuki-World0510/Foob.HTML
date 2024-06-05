@@ -1,0 +1,7 @@
+:root {
+    --sug: red;
+}
+
+h1 {
+    color: var(--sug);
+}
